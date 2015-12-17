@@ -1,6 +1,3 @@
-//require('es6-promise')
-//  .polyfill();
-
 var Nightmare = require('nightmare'),
   prompt = require('co-prompt'),
   vo = require('vo'),
