@@ -1,0 +1,38 @@
+{
+  "name": "headless-trello-auth",
+  "version": "0.1.0",
+  "description": "Automatically grant access for your application in Trello",
+  "main": "index.js",
+  "dependencies": {
+    "co-prompt": "^1.0.0",
+    "debug": "^2.2.0",
+    "nightmare": "^2.0.9",
+    "uuid": "^2.0.1",
+    "vo": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rosshinkley/headless-trello-auth"
+  },
+  "bugs": {
+    "url": "https://github.com/rosshinkley/headless-trello-auth/issues"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ross Hinkley <rosshinkley@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "trello",
+    "oauth2",
+    "headless",
+    "auth",
+    "phantom",
+    "phantomjs",
+    "casper",
+    "casperjs",
+    "nightmare",
+    "nightmarejs"
+  ]
+}
